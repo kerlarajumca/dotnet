@@ -1,0 +1,5 @@
+C:\Users\DELL\OneDrive\Documents\VS\client\bin\Debug\client.exe.config
+C:\Users\DELL\OneDrive\Documents\VS\client\bin\Debug\client.exe
+C:\Users\DELL\OneDrive\Documents\VS\client\bin\Debug\client.pdb
+C:\Users\DELL\OneDrive\Documents\VS\client\obj\Debug\client.exe
+C:\Users\DELL\OneDrive\Documents\VS\client\obj\Debug\client.pdb
